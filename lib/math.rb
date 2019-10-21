@@ -19,7 +19,8 @@ def modulo(num1, num2)
 end
 
 def square_root(num)
-  p num / num
+  x = Math.sqrt(num)
+  p x
 end
 
 addition(5,4)
